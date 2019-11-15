@@ -1,0 +1,17 @@
+body {
+    margin-top: 66px!important;
+}
+.logo {
+    height: 40px;
+    position: relative;
+    top: -5px;
+}
+.navbar-brand {
+    margin-right: 50px!important;
+    padding: 10px 15px!important;
+    background: #fff!important;
+}
+.container {
+    margin: auto;
+    max-width: 1024px;
+}

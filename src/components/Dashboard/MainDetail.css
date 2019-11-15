@@ -1,0 +1,21 @@
+.main-detail {
+    border-bottom: 1px solid #eee;
+}
+.info {
+    padding: 20px 0;
+}
+.balance {
+    padding: 20px 0;
+}
+.shortlink {
+    padding: 20px 0;
+}
+.border-right {
+    border-right: 1px solid #eee;
+}
+.nav-link {
+    color: #e2f3ff!important;
+}
+.navbar {
+    background-color: #005596;
+}
